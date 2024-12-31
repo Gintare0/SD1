@@ -1,4 +1,4 @@
-# sp-sd1
+# SD1
 Mano Pirmoji Programa - šis projektas yra studentų kategorijų kūrimo įrankis, skirtas apdoroti studentų pažymius, suskirstyti juos į dvi grupes („vargšiukai“ ir „kietiakai“) bei išmatuoti skirtingų rūšiavimo ir skirstymo strategijų efektyvumą.
 
 Pagrindinės Savybės: skaito studentų duomenis iš įvesties failų. Apskaičiuoja galutinius pažymius pagal namų darbus ir egzaminų balus. Skirsto studentus į kategorijas („vargšiukai“ ir „kietiakai“). Optimizuotas skirtingų konteinerių (std::vector, std::list, std::deque) našumo matavimui. Atlieka našumo analizę ir palyginimus.
